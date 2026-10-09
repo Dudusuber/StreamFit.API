@@ -60,3 +60,4 @@ http://localhost:5000
 ## Modelagem
 
 O projeto utiliza um relacionamento N:N entre `Treino` e `Exercicio`, utilizando a tabela intermediária `TreinoExercicio`.
+DATABASE_URL="postgresql://postgres:senai@localhost:5432/streamfit"
